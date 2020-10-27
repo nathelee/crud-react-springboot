@@ -1,0 +1,5 @@
+co\com\sofka\crud\TodoService.class
+co\com\sofka\crud\TodoRepository.class
+co\com\sofka\crud\Todo.class
+co\com\sofka\crud\TodoController.class
+co\com\sofka\crud\CrudApplication.class
